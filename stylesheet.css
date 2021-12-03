@@ -60,7 +60,7 @@ header {
     padding-left:10px;
     padding-right:10px;
     padding-bottom:50px;
-    background-image:url(cover.jfif);
+    background:url(cover.jfif);
     background-size:cover;
 }
 .top-wrapper h1 {
